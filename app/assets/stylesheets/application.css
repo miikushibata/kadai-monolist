@@ -64,6 +64,11 @@ footer {
   margin: 0 5px;
 }
 
+.item .buttons form{
+  display: inline-block;
+}
+
+
 .item .panel-heading {
   height: 250px;
 }
